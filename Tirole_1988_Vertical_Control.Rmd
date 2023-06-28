@@ -1,0 +1,29 @@
+---
+title: "Tirole_1988_Vertical_Control"
+author: "Yuki KAYABA"
+date: "2023-06-28"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook: default
+#output_dir: docs
+#bookdown::gitbook: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(bookdown)
+```
+
+# Summary of the Paper
+
+（ひとことメモ）
+
+
+
+# 4.1 Linear Prices versus Vertical Restraints
+
+## 4.1.1 Basic Framework
+
+- A single supplier, called the _monopolist_ or the _manufacturer_, produces an intermediate good at a constant unit cost $c$.
+- He is the only producer of this good.
+- He sells it to a single downstream firm, called the _retailer_.
