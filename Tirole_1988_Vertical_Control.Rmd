@@ -27,3 +27,4 @@ library(bookdown)
 - A single supplier, called the _monopolist_ or the _manufacturer_, produces an intermediate good at a constant unit cost $c$.
 - He is the only producer of this good.
 - He sells it to a single downstream firm, called the _retailer_.
+- The retailer resells the product.
